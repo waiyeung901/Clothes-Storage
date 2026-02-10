@@ -1,0 +1,10 @@
+/* static/styles.css */
+/* Additional custom styles if needed, but mostly relying on Bootstrap */
+body {
+    background-color: #f8f9fa;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
