@@ -1,2 +1,2 @@
-# EDM-builder
-To build Uniqlo EDM sliced images for developers
+# Clothes-Storage
+To manage clothes in house
